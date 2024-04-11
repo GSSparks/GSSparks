@@ -1,4 +1,4 @@
-![hello world!](banner.png)
+$ echo 'hello world!'
 
 <!--
 **GSSparks/GSSparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
